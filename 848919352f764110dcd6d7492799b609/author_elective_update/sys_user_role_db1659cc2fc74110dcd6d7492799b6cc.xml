@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_786959_loaner_re.person b</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>person b</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-19 05:08:22</sys_created_on>
+        <sys_id>db1659cc2fc74110dcd6d7492799b6cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_786959_loaner_re.person b</sys_name>
+        <sys_package display_value="Loaner Request" source="x_786959_loaner_re">848919352f764110dcd6d7492799b609</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">848919352f764110dcd6d7492799b609</sys_scope>
+        <sys_update_name>sys_user_role_db1659cc2fc74110dcd6d7492799b6cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-19 05:08:22</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">848919352f764110dcd6d7492799b609</application>
+        <file_path/>
+        <instance_id>1089bc8adb0348183050ac44d49619b1</instance_id>
+        <instance_name>dev101422</instance_name>
+        <name>sys_user_role_db1659cc2fc74110dcd6d7492799b6cc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_786959_loaner_re.person b</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>person b</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-19 05:08:22</sys_created_on><sys_id>db1659cc2fc74110dcd6d7492799b6cc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_786959_loaner_re.person b</sys_name><sys_package display_value="Loaner Request" source="x_786959_loaner_re">848919352f764110dcd6d7492799b609</sys_package><sys_policy/><sys_scope display_value="Loaner Request">848919352f764110dcd6d7492799b609</sys_scope><sys_update_name>sys_user_role_db1659cc2fc74110dcd6d7492799b6cc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-19 05:08:22</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>-2055718011</payload_hash>
+        <record_name>x_786959_loaner_re.person b</record_name>
+        <reverted_from/>
+        <source>79a05ec22ff20110dcd6d7492799b60d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-19 05:08:22</sys_created_on>
+        <sys_id>214695cc2fc74110dcd6d7492799b64b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1804038c0a20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-19 05:08:22</sys_updated_on>
+        <type>Role</type>
+        <update_guid>694695cc5dc74110064fdac39dda554a</update_guid>
+        <update_guid_history>694695cc5dc74110064fdac39dda554a:-2055718011</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_786959_loaner_re.person b">55d7d1402f0b4110dcd6d7492799b618</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-19 05:15:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>65e99c780b454562a3cd02b228fb5af1</sys_id>
+        <sys_metadata>db1659cc2fc74110dcd6d7492799b6cc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_786959_loaner_re.person b</sys_name>
+        <sys_package display_value="Loaner Request" source="x_786959_loaner_re">848919352f764110dcd6d7492799b609</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">848919352f764110dcd6d7492799b609</sys_scope>
+        <sys_scope_delete display_value="">413bbcf1385742e488560fb3d5a522a1</sys_scope_delete>
+        <sys_update_name>sys_user_role_db1659cc2fc74110dcd6d7492799b6cc</sys_update_name>
+        <sys_update_version display_value="sys_user_role_db1659cc2fc74110dcd6d7492799b6cc">214695cc2fc74110dcd6d7492799b64b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-19 05:15:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
